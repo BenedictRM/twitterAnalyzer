@@ -1,4 +1,4 @@
 # Twitter Analysis Ignored Files #
 ############
 #Ignore credential files -- ignore all json files
-**/.json
+*.json
