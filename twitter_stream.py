@@ -47,7 +47,7 @@ class StdOutListener(StreamListener):
                 print 'error in processing tweet: valueError'
                 pass
             except KeyError:
-                print 'Got a keyError, continuing...'
+                print 'Got a keyError, continuinggg...'
                 pass
         
     def on_error(self, status):
